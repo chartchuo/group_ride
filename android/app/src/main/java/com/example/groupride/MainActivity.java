@@ -1,4 +1,4 @@
-package com.example.groupride;
+package com.chartchuo.groupride;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
